@@ -2,7 +2,7 @@
 
 ## Instructions to Run
 
-1. **Clone the repository:** `git clone <repository_url>`
+1. **Clone the repository:** `git clone git@github.com:gianfelipe93/time-to-words.git`
 2. **Install dependencies:** `npm install`
 3. **Run tests:** `npm test`
 
